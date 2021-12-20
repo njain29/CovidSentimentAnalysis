@@ -17,6 +17,10 @@ Following are the steps that are done to conduct a sentiment analyis:
 7. Showing the most user words in the search.
 8. Creating bigrams & trigrams.
 
+# Running the code
+
+To run the code, simply clone the repo and open the main.py file in Visual Studio Code. Make sure to restore all the packages that are mentioned in the header section of the file and resolve any errors that are logged on the terminal. Once that is done, make sure to request a Twitter API key and replace it in the code where it's being referred. After doing that, simply running the code will ask for keywords in the terminal and the number of tweets that you want to analyze to do a sentiment analysis.
+
 # Data Visualizations
 
 ![Screen Shot 2021-12-20 at 9 08 12 AM](https://user-images.githubusercontent.com/60200344/146779850-4ab67536-bf16-4d14-9f18-75a34f198768.png)
